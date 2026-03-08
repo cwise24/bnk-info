@@ -9,7 +9,7 @@ Standard Gateway API [HTTPRoute](https://clouddocs.f5.com/bigip-next-for-kuberne
 
 F5 CRs
 
-[Master List](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/installing-bnk-dpu-using-f5-lifecycle-operator/installing/spk-custom-resources.html)
+[Master List](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/installing-bnk-dpu-using-f5-lifecycle-operator/installing/spk-custom-resources.html) CR
 
 - [L4Route](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-gateway-api-l4route.html)
 
