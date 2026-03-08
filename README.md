@@ -19,7 +19,7 @@ F5 CRs
 
 - iRule [BNKNetPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-irule-in-gatewayapi.html)
   
-    - applied at Gateway or Gateway [Listener](https://gateway-api.sigs.k8s.io/concepts/api-overview/) (max 64 listeners)
+    - applied at Gateway or Gateway [Listener](https://gateway-api.sigs.k8s.io/concepts/api-overview/) (max 64 listeners per gateway)
 
 ![bnk-policy](bnk-sample-traffic-flow-L7-Ingress-path-and-iRule-policy-attached-at-Gateway-level.png)
 
