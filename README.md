@@ -24,5 +24,7 @@ F5 CRs
 - General [BNKNetPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-bnkNetPolicy.html)
 
 - [F5SPKSnatpool](https://clouddocs.f5.com/service-proxy/latest/spk-snatpool-crd.html)
+  
+    - By default, all SNAT Pool IP addresses are advertised (redistributed) to BGP neighbors. To advertise only specific SNAT Pool IP addresses, configure a prefixList and routeMaps when installing the Ingress Controller.
 
 - [F5BNKGateway](https://clouddocs.f5.com/bigip-next-for-kubernetes/2.1.1/bnk-ficforgatewayapi.html) Sometimes reffered to as FIC (F5 IPAM Controller)
