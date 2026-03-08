@@ -18,6 +18,8 @@ F5 CRs
 - [F5BigFwPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-fwpolicy-in-gateway-api.html)
 
 - iRule [BNKNetPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-irule-in-gatewayapi.html)
+  
+    - applied at Gateway or Gateway Listener
 
 ![bnk-policy](bnk-sample-traffic-flow-L7-Ingress-path-and-iRule-policy-attached-at-Gateway-level.png)
 
