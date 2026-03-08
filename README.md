@@ -31,4 +31,6 @@ F5 CRs
 
 - [F5BNKGateway](https://clouddocs.f5.com/bigip-next-for-kubernetes/2.1.1/bnk-ficforgatewayapi.html) Sometimes reffered to as FIC (F5 IPAM Controller)
 
+- [F5BNKGateway CR](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-gateway-api-gateway.html)
+
 - [BNKSecPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-bnkSecPolicy.html)
