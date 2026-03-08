@@ -34,3 +34,7 @@ F5 CRs
 - [F5BNKGateway CR](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-gateway-api-gateway.html)
 
 - [BNKSecPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-bnkSecPolicy.html)
+
+## AI
+
+[AI Optimize](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/how-tos/ai-related-features/)
