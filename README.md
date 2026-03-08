@@ -1,6 +1,6 @@
 ## BNK links
 
-![gen-gw](bnk-gateway-architecture-2-1-0.png)
+![gen-gw](bnk-gateway-architecure-2-1-0.png)
 
 [BNK Gateway API](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/installing-bnk-dpu-using-f5-lifecycle-operator/installing/bnk-gateway-api.html)
 
