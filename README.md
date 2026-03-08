@@ -35,6 +35,8 @@ F5 CRs
 
 - [BNKSecPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-bnkSecPolicy.html)
 
+    - BNKSecPoliy + FW [examples](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/reference/spk-firewall-crd.html)
+
 ## AI
 
 [AI Optimize](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/how-tos/ai-related-features/)
