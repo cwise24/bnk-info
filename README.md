@@ -33,6 +33,8 @@ F5 CRs
 
 - [F5BNKGateway CR](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-gateway-api-gateway.html)
 
+- https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-bnkgateway.html
+
 - [BNKSecPolicy](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-bnkSecPolicy.html)
 
     - BNKSecPoliy + FW [examples](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/reference/spk-firewall-crd.html)
