@@ -11,7 +11,9 @@ F5 CRs
 
 [Master List](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/installing-bnk-dpu-using-f5-lifecycle-operator/installing/spk-custom-resources.html) CR
 
-- [CNEInstance CR](https://clouddocs.f5.com/cnfs/robin/latest/cnf-cneinstance-parameters.html)
+- BNK [CNEInstance CR](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/cneinstance-parameters.html)
+
+- CNF [CNEInstance CR](https://clouddocs.f5.com/cnfs/robin/latest/cnf-cneinstance-parameters.html)
 
 - [L4Route](https://clouddocs.f5.com/bigip-next-for-kubernetes/latest/bnk-gateway-api-l4route.html)
 
